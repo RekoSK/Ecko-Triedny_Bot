@@ -2,7 +2,7 @@ import random as rd
 
 ODPOVEDE: str = [
     "Áno, jasné",
-    "Nie, čo si si ako myslel že poviem?",
+    "Nie, čo si si ako myslel že povi
     "Určite nie. Koniec tejto konverzácie.",
     "100% Áno!",
     "Súhlasím!",
